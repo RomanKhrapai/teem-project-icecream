@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./../images/arrow-right.png":[["arrow-right.67bcf19b.png","jYHD"],"jYHD"],"./../images/advantages/icon-1.png":[["icon-1.95cb67b4.png","X2JN"],"X2JN"],"./../images/advantages/icon-2.png":[["icon-2.3b129f2e.png","Gtpg"],"Gtpg"],"./../images/advantages/icon-3.png":[["icon-3.fd99e18a.png","DWHd"],"DWHd"],"./../images/modal/ice-cream.png":[["ice-cream.a0fa31e1.png","zqT6"],"zqT6"]}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),(()=>{const e={openModalBtn:document.querySelector("[data-modal-open-buy-now]"),closeModalBtn:document.querySelector("[data-buy-now-close]"),modal:document.querySelector("[data-modal]")};function o(){document.body.classList.toggle("modal-open"),e.modal.classList.toggle("is-hidden")}e.openModalBtn.addEventListener("click",o),e.closeModalBtn.addEventListener("click",o)})();
 },{"./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/teem-project-icecream/src.9cf5a2ea.js.map
+//# sourceMappingURL=/teem-project-icecream/src.5d793885.js.map
